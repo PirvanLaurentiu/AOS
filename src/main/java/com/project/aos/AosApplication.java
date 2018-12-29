@@ -1,4 +1,4 @@
-package com.final.aos.aos;
+package com.project.aos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
